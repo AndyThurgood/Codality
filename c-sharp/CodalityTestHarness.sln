@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodalityTestLibrary", "CodifyTestHarness\CodalityTestLibrary.csproj", "{722C4B6D-C38E-4BB7-BF3E-52C844EB66F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodalityUnitTests", "CodalityUnitTests\CodalityUnitTests.csproj", "{4566E629-5533-4664-9FD2-A6BB19929B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722C4B6D-C38E-4BB7-BF3E-52C844EB66F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722C4B6D-C38E-4BB7-BF3E-52C844EB66F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722C4B6D-C38E-4BB7-BF3E-52C844EB66F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722C4B6D-C38E-4BB7-BF3E-52C844EB66F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4566E629-5533-4664-9FD2-A6BB19929B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4566E629-5533-4664-9FD2-A6BB19929B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4566E629-5533-4664-9FD2-A6BB19929B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4566E629-5533-4664-9FD2-A6BB19929B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
